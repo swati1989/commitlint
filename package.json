@@ -5,6 +5,7 @@
     "husky": "^8.0.1"
   },
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "standard-version"
   }
 }
