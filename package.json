@@ -13,7 +13,7 @@
     "release:major": "standard-version --release-as major"
   },
   "name": "commitlint",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "main": "commitlint.config.js",
   "dependencies": {
     "JSONStream": "^1.3.5",
